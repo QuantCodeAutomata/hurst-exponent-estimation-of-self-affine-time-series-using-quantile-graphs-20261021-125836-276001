@@ -1,0 +1,26 @@
+{
+  "-1.0": {
+    "diagonal_dominance": 0.015600502512562816,
+    "anti_diagonal_dominance": 0.04140603015075377
+  },
+  "-0.5": {
+    "diagonal_dominance": 0.015402010050251259,
+    "anti_diagonal_dominance": 0.028601507537688437
+  },
+  "0.0": {
+    "diagonal_dominance": 0.023702512562814068,
+    "anti_diagonal_dominance": 0.023302512562814074
+  },
+  "0.5": {
+    "diagonal_dominance": 0.03570201005025126,
+    "anti_diagonal_dominance": 0.014602010050251257
+  },
+  "1.0": {
+    "diagonal_dominance": 0.07560502512562814,
+    "anti_diagonal_dominance": 0.010700000000000001
+  },
+  "2.0": {
+    "diagonal_dominance": 0.5433643216080403,
+    "anti_diagonal_dominance": 0.011500000000000002
+  }
+}
